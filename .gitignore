@@ -1,6 +1,7 @@
-#Qt-es
+#QtCreator
+
+*.autosave
+
+#QtCreator CMake
 
 *.txt.user
-
-#QtCreator
-*.autosave
