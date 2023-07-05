@@ -1,0 +1,6 @@
+#Qt-es
+
+*.txt.user
+
+#QtCreator
+*.autosave

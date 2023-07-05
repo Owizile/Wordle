@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/enter.ico</file>
+        <file>resources/backspace.ico</file>
+        <file>resources/stats.ico</file>
+        <file>resources/help.ico</file>
+        <file>resources/wordle.ico</file>
+    </qresource>
+    <qresource prefix="/txt">
+        <file>resources/Dictionary.txt</file>
+        <file>resources/QuizWords.txt</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>resources/statistics.json</file>
+    </qresource>
+</RCC>
